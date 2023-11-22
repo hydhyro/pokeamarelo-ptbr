@@ -1,4 +1,17 @@
-# Pokémon Yellow [![Build Status][ci-badge]][ci]
+# Pokémon Amarelo [![Build Status][ci-badge]][ci]
+Versão Português do Brasil do disassembly de Pokémon Yellow.
+Modificações:
+    1. Tradução Completa
+    2. Adição de acentos
+    3. Gráficos extras
+    4. Lista extra de Nomes dos golpes (uma com acentos em tiles separados e outra com eles "apertados" em um só)
+    5. Várias caixas de texto foram editadas para acomodar textos maiores e alguns labels extras no PC e mercado
+    6. Adição de um pequeno ponto indicando que o Pokémon selvagem já está adicionado na pokédéx (battle_font_extra.png)
+    7. Nenhum bug/glitch foi alterado ou corridigo, entretanto as modificações podem ter impedido alguns de funcionar "corretamente" (inclui cheats).
+  
+
+
+
 
 This is a disassembly of Pokémon Yellow.
 
